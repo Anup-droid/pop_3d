@@ -1,2 +1,2 @@
-# pop_3d
+# 3D Population Graph
 Population in 3D Graph
